@@ -1,5 +1,0 @@
-{
-  "licenses": [
-    "93b5232b49b1a595faaffbe87cf3d9d1c52afc239e65e11accdf60fb83f495cc",
-  ]
-}
